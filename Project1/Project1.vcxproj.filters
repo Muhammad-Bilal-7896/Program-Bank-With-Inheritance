@@ -32,5 +32,14 @@
     <ClInclude Include="Accounts.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="SavingAccount.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CurrentAccount.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

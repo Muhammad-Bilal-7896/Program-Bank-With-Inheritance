@@ -1,13 +1,11 @@
 #pragma once
-class Manager:protected Accounts
+#include"Person.h"
+class Manager:protected Person
 {
-private:
-	vector<string> Name;
-	vector<string> Branch;
-	vector<int> ID;
+
 public:
 	void Print_ManagerDetails();
-	void TakeManagersData(string,string,int);
+	void TakeManagersData(string, string, int);
 };
 void Manager::Print_ManagerDetails()
 {
@@ -21,7 +19,7 @@ void Manager::Print_ManagerDetails()
 		cout << "\nThe Branch of Manager is : " << Branch[i] << endl;
 	}
 }
-void Manager::TakeManagersData(string n,string b,int id) 
+void Manager::TakeManagersData(string n, string b, int id)
 {
 	Name.push_back(n);
 	Branch.push_back(b);

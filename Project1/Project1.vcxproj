@@ -144,8 +144,11 @@
   <ItemGroup>
     <ClInclude Include="Accounts.h" />
     <ClInclude Include="Bank.h" />
+    <ClInclude Include="CurrentAccount.h" />
     <ClInclude Include="Customer.h" />
     <ClInclude Include="Manager.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="SavingAccount.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
