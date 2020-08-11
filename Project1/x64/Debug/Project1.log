@@ -1,4 +1,5 @@
 ﻿  Source.cpp
-C:\Users\bilal\Desktop\Program-Bank-With-Inheritance\Project1\CurrentAccount.h(80,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\bilal\Desktop\Program-Bank-With-Inheritance\Project1\SavingAccount.h(79,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  Project1.vcxproj -> C:\Users\bilal\Desktop\Program-Bank-With-Inheritance\x64\Debug\Project1.exe
+C:\Users\bilal\Desktop\Program-Bank-With-Inheritance-and-Polymorphism\Project1\CurrentAccount.h(80,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bilal\Desktop\Program-Bank-With-Inheritance-and-Polymorphism\Project1\SavingAccount.h(79,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\bilal\Desktop\Program-Bank-With-Inheritance-and-Polymorphism\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\bilal\Desktop\Program-Bank-With-Inheritance-and-Polymorphism\x64\Debug\Project1.exe
